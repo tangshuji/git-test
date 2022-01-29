@@ -8,6 +8,8 @@ public class Test {
         System.out.println("good");
         System.out.println("master test");
 
+        System.out.println("hot-fix test");
+
     }
 
 }
